@@ -1,0 +1,10 @@
+name: Lootchest
+version: '${project.version}'
+main: lootchest.lootchest.Lootchest
+api-version: 1.19
+authors: [ SENNear ]
+description: random lootchest
+commands:
+  lootchest:
+    usage: /lootchest start|stop
+    description: Start or stop the LootChest plugin.
